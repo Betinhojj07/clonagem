@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+   
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Naoencontrada{
+    width: 500px;
+    display: flex;
+    margin-top: 8%;
+
+    border-radius: 75px;
+    
+}
